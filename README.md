@@ -35,6 +35,6 @@
    ```bash
    git clone https://github.com/bol-van/zapret.git
    cd zapret
-  И открваете файл service
+  И открваете файл "service"
   
 ### Всё , zapret работает
